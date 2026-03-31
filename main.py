@@ -24,4 +24,4 @@ except TimeoutException:
     print("Loading took too much time!")
 finally:
     time.sleep(5)
-    driver.quit()
+    driver.quit() 
